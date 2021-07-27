@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kade!
-- 👀 I’m interested in ... design, music, outdoors, games, anime
+- 👀 I’m interested in ... programming, design, music, outdoors, video games
 - 🌱 I’m currently learning ... Front end JavaScript!
 - 💞️ I’m looking to collaborate on ... ANYTHING
 - 📫 How to reach me ... https://www.linkedin.com/in/kade-griffith-llj999/
