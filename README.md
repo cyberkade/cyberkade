@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... programming, design, music, outdoors, video games
 - 🌱 I’m currently learning ... Front end JavaScript!
 - 💞️ I’m looking to collaborate on ... ANYTHING
-- 📫 How to reach me ... https://www.linkedin.com/in/kade-griffith/
+- 📫 How to reach me ... https://www.linkedin.com/in/kadeg/
 
 <!---
 cyberkade/cyberkade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
