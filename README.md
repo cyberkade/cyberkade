@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kade!
-- 👀 I’m interested in ... programming, design, music, outdoors, video games
+- 👀 I’m interested in ... New technologies, music, outdoors, video games
 - 🌱 I’m currently learning ... TypeScript
 - 💞️ I’m looking to collaborate on ... Anything!
 - 📫 How to reach me ... https://www.linkedin.com/in/kadeg/ , kadeg95@gmail.com
