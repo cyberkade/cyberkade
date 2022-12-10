@@ -25,7 +25,7 @@
   <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/redux.svg" width="30" title="Redux"></a>
   <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nodejs-icon.svg" width="30" title="Node.js"></a>
   <a href="https://nodemon.io/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nodemon.svg" width="30" title="Nodemon"></a>
-   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/go.svg" width="30" title="Golang"></a>
+   <a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" width="30" title="Golang"></a>
    <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/php.svg" width="30" title="PHP"></a>
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/python.svg" width="30" title="Python"></a>
   <a href="https://www.cypress.io/"><img src="https://github.com/get-icon/geticon/blob/master/icons/cypress.svg" width="30" title="Cypress"></a>
