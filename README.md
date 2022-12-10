@@ -33,6 +33,8 @@
   <a href="https://knexjs.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/knex.svg" width="30" title="Knex.js"></a>
   <a href="https://www.json.org/json-en.html"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/json.svg" width="30" title="JSON"></a>
   <a href="https://sqlitestudio.pl/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/sqlite.svg" width="60" title="SQLite"></a>
+  <a href="https://sqlitestudio.pl/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" title="SQLite"></a>
+ 
   <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/postgresql-logo.svg" width="30" title="PostgreSQL"></a>
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/visual-studio-code.svg" width="30" title="Visual Studio Code"></a>
   <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/express.svg" width="88" title="Express.js"></a>
