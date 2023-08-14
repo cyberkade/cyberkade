@@ -46,6 +46,7 @@
 <div align="center">
   <a href="https://www.w3.org/TR/CSS/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg" width="24" title="CSS3"></a>
   <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/figma.svg" width="20" title="Figma"></a>
+  <a href="https://www.heroku.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/heroku-icon.svg" width="30" title="Heroku"></a>
 </div>
 
 ---
