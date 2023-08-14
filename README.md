@@ -5,7 +5,7 @@
 </div> -->
 ## About Me
 
-- 👋 Hi, I’m Kade!
+- 👋 Yo, I’m Kade!
 - 👀 I’m enthusiastic about ... New technologies, music, video games, outdoors
 - 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ... Anything to further my skills and growth as a developer!
